@@ -40,7 +40,7 @@ const Header = () => {
             : "transform translate-x-[300px] opacity-0"
         }`}
       >
-        <div className="text-black mt-4 md:mt-0 bg-white opacity-100 md:opacity-95 p-4 rounded-sm shadow-xl">
+        <div className="text-black mt-4 md:mt-0 bg-slate-100 opacity-100 md:opacity-95 p-4 rounded-sm shadow-xl">
           <div className="flex flex-col z-20 md:max-w-[500px] text-sm">
             {/* <div className="hidden md:flex text-xl">
               <p className="font-bold">

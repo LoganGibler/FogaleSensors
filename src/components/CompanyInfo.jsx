@@ -27,7 +27,7 @@ const BulletPoint = ({ children }) => {
 
 const CompanyInfo = () => {
   return (
-    <div className="flex text-black w-full h-[300px] px-3 mt-[2rem] justify-center items-center relative">
+    <div className="flex drop-shadow-xl text-black w-full h-[300px] px-3 mt-[2rem] justify-center items-center relative">
       <div className="flex flex-col max-w-2xl">
         <h1 className="text-2xl">
           We focus on bringing together experts in their own field to:

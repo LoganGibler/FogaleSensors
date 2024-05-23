@@ -5,7 +5,7 @@ import { Header, CompanyInfo, Services, Footer } from "./components/";
 function App() {
   return (
     <>
-      <div className="">
+      <div className="bg-slate-100">
         <Header />
         <CompanyInfo />
         <Services />
