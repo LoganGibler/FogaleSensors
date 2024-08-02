@@ -15,19 +15,19 @@ import { FaArrowAltCircleDown } from "react-icons/fa";
 
 const Services = () => {
   const { ref: ref1, inView: inView1 } = useInView({
-    triggerOnce: false,
+    triggerOnce: true,
     threshold: 0.1,
   });
   const { ref: ref2, inView: inView2 } = useInView({
-    triggerOnce: false,
+    triggerOnce: true,
     threshold: 0.1,
   });
   const { ref: ref3, inView: inView3 } = useInView({
-    triggerOnce: false,
+    triggerOnce: true,
     threshold: 0.1,
   });
   const { ref: ref4, inView: inView4 } = useInView({
-    triggerOnce: false,
+    triggerOnce: true,
     threshold: 0.1,
   });
 
